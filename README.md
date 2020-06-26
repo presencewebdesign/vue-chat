@@ -1,6 +1,6 @@
 # chat
 
-Demo Link [Configuration Reference](https://vue-chat-484b1.web.app/).
+[Demo Link](https://vue-chat-484b1.web.app/).
 
 ## Project setup
 
